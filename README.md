@@ -1,2 +1,2 @@
 # Graduate-Rotational-Internship-Program
-# By The Sparks Foundation
+### By The Sparks Foundation
